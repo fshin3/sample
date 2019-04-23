@@ -13,5 +13,12 @@ int main(void){
 	k = j;
 	print("sum2 = %d.\n",k);
 	printf("Hello, FRA!\n");
+	
+	
+	while(j > 3){
+		printf("Say YO!\n");
+	}
+	
 	return 0;
+	
 }

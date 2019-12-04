@@ -13,5 +13,7 @@ int main(void){
 	k = j;
 	print("sum2 = %d.\n",k);
 	printf("Hello, FRA!\n");
+	
+	printf("frafrafra!!!!\n");
 	return 0;
 }
